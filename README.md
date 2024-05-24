@@ -1,1 +1,1 @@
-# -izelgeleme
+# çizelgeleme
